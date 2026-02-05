@@ -20,5 +20,5 @@ echo "===== GPU INFO ====="
 nvidia-smi
 echo
 
-python will_python_work.py
+python3 will_python_work.py
 
